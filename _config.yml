@@ -5,7 +5,7 @@
 # Site
 title: 北京福裕泰科贸有限公司
 subtitle: 我们为需要湿度的场所提供专业的解决方案
-description: 加湿/加湿器/福裕泰
+description: 销售一流产品 提供一流服务
 author: 福裕泰
 language: zh-CN
 timezone: Asia/Shanghai
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
