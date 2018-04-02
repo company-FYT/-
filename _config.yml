@@ -5,7 +5,7 @@
 # Site
 title: 北京福裕泰科贸有限公司
 subtitle: 我们为需要湿度的场所提供专业的解决方案
-description: 销售一流产品 提供一流服务
+description: 加湿/加湿器/福裕泰
 author: 福裕泰
 language: zh-CN
 timezone: Asia/Shanghai
@@ -29,7 +29,6 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-new_post_name: :测试.MD # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -73,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
